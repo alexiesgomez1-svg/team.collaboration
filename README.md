@@ -54,18 +54,15 @@ We used ChatGPT by OpenAI GPT-6 to assist me in completing our Stack Visualizati
 
 13.	Contributors
 
-Almaray: Stack Model and Data StructureResponsible for implementing and testing the array-based stack, including Push, Pop, Peek, and stack boundary conditions. Explained how the stack follows the LIFO principle.
+ALMARAY: worked on the StackModel class. He helped create the main stack operations, such as push, pop, peek, and checking if the stack is empty. His part is important because it handles the data and makes the stack work properly.
 
-Britanico: GUI Design Responsible for developing and improving the coffee-themed interface, including the header, buttons, stack display, and information cards.
+BRITANICO: worked on the design of the program. He helped make the interface look better by adding the coffee-colored theme, buttons, and information cards. His part makes the program easier to use and understand.
 
-Ervin: Stack Operations and Input Validation Responsible for connecting GUI actions to stack methods, validating user input, and handling overflow and underflow conditions.
+ROBOCA: worked on connecting the buttons to their functions. He helped make sure that when the user clicks Push, Pop, or Peek, the program performs the correct operation. He also helped with checking user input.
 
-Nathaniel:  Stack Visualization and Testing Responsible for updating the visual stack, size and top element information, status messages, and testing the synchronization between the GUI and the stack.
-Contribution Note: Each contributor should update this section to reflect the work they actually completed, their commits, and their participation in code reviews or pull requests.
+NATHANIEL: worked on the stack display and status messages. He helped show the current stack elements, stack size, and top element. He also helped test the program to check if the operations worked correctly.
 
-Llanos Code Editing and Documentation
-
-I helped edit the code based on the laboratory instructions and worked on the written documentation and also helped answer the module questions and organize the explanations about the program and its operations.
+LLANOS: Code I helped edit the code based on the laboratory instructions and worked on the written documentation and also helped answer the module questions and organize the explanations about the program and its operations.
 
 
 
