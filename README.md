@@ -65,7 +65,7 @@ Contribution Note: Each contributor should update this section to reflect the wo
 
 Llanos Code Editing and Documentation
 
-I helped edit the code based on the laboratory instructions and worked on the written documentation. He also helped answer the module questions and organize the explanations about the program and its operations.
+I helped edit the code based on the laboratory instructions and worked on the written documentation and also helped answer the module questions and organize the explanations about the program and its operations.
 
 
 
